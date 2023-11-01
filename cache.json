@@ -20616,5 +20616,151 @@
     "workshopid": -1,
     "itemid": "",
     "ignore": true
+  },
+  {
+    "uri": "https://rustlabs.com/skin/pumpkin-roadsign-gloves",
+    "workshopid": 3044771291,
+    "itemid": "roadsign.gloves"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/zombieland-ar",
+    "workshopid": 3047277939,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/dracula-furnace",
+    "workshopid": 3047816188,
+    "itemid": "furnace"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/gore-sar",
+    "workshopid": 3046245174,
+    "itemid": "rifle.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/ghostly-sheet-metal-door",
+    "workshopid": 3046206340,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/ghost-halloween-mp5",
+    "workshopid": 3047883799,
+    "itemid": "smg.mp5"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/bonelord-l96",
+    "workshopid": 3048820949,
+    "itemid": "rifle.l96"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/doomgate-sheet-metal-door",
+    "workshopid": 3048905728,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/pumpkin-bow",
+    "workshopid": 3049044492,
+    "itemid": "bow.hunting"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/sinister-armored-door",
+    "workshopid": 3049409485,
+    "itemid": "door.hinged.toptier"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/the-spell-garage-door",
+    "workshopid": 3048983494,
+    "itemid": "wall.frame.garagedoor"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/tombstone-barricade",
+    "workshopid": 3048748658,
+    "itemid": "barricade.concrete"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/scarecrow-facemask",
+    "workshopid": 3048893633,
+    "itemid": "metal.facemask"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/scarecrow-chestplate",
+    "workshopid": 3048892802,
+    "itemid": "metal.plate.torso"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/pumpkin-exhibition",
+    "workshopid": 3048704361,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/coffin-wooden-door",
+    "workshopid": 3047916316,
+    "itemid": "door.hinged.wood"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/dracula-mask",
+    "workshopid": -1,
+    "itemid": "",
+    "ignore": true
+  },
+  {
+    "uri": "https://rustlabs.com/skin/necro-facemask",
+    "workshopid": 3049403003,
+    "itemid": "metal.facemask"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/necro-chest-plate",
+    "workshopid": 3049402873,
+    "itemid": "metal.plate.torso"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/grim-farm-garage-door",
+    "workshopid": 3049318629,
+    "itemid": "wall.frame.garagedoor"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/zombow",
+    "workshopid": 3041615997,
+    "itemid": "bow.hunting"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/zombie-sar",
+    "workshopid": 3048684074,
+    "itemid": "rifle.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/zombie-bang-lr",
+    "workshopid": 3048480609,
+    "itemid": "rifle.lr300"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/spooky-neon-small-box",
+    "workshopid": 3048560827,
+    "itemid": "box.wooden"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/spider-cocoon-furnace",
+    "workshopid": 3048716721,
+    "itemid": "furnace"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/spider-web-rug",
+    "workshopid": 3044395173,
+    "itemid": "rug"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/fridge-from-hell",
+    "workshopid": 3043924758,
+    "itemid": "fridge"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/kraken-shell-pants",
+    "workshopid": 3049088453,
+    "itemid": "pants"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/kraken-shell-hoodie",
+    "workshopid": 3049088105,
+    "itemid": "hoodie"
   }
 ]
