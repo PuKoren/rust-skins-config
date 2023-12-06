@@ -20978,5 +20978,235 @@
     "workshopid": -1,
     "itemid": "",
     "ignore": true
+  },
+  {
+    "uri": "https://rustlabs.com/skin/ronin-sar",
+    "workshopid": 3089982285,
+    "itemid": "rifle.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/frog-box",
+    "workshopid": 3090558608,
+    "itemid": "box.wooden"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/redemption-sap",
+    "workshopid": 3090552873,
+    "itemid": "pistol.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/pressurizer-dbs",
+    "workshopid": 3089005616,
+    "itemid": "shotgun.double"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/brutalist-armored-door",
+    "workshopid": 3090452448,
+    "itemid": "door.hinged.toptier"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/pirate-sheet-metal-door",
+    "workshopid": 3088357055,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/neon-vibes-furnace",
+    "workshopid": 3090139747,
+    "itemid": "furnace"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/damascus-hoodie",
+    "workshopid": 3090261465,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/damascus-pants",
+    "workshopid": 3090260227,
+    "itemid": "pants"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitchmas-sleeping-bag",
+    "workshopid": 2678303579,
+    "itemid": "sleepingbag"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitchmas-gingerbread-sap",
+    "workshopid": 2678228638,
+    "itemid": "pistol.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitchmas-large-box",
+    "workshopid": 1594151070,
+    "itemid": "box.wooden.large"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitchmas-ar",
+    "workshopid": 1935301967,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/rustoria-sleeping-bag",
+    "workshopid": 3088798195,
+    "itemid": "sleepingbag"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/rustoria-chestplate",
+    "workshopid": 3088805555,
+    "itemid": "metal.plate.torso"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/rustoria-facemask",
+    "workshopid": 3088809838,
+    "itemid": "metal.facemask"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/welyn-&-wobbles-microphone",
+    "workshopid": 3083893658,
+    "itemid": "stone.pickaxe"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/welyn-&-wobbles-team-hoodie",
+    "workshopid": 3082739065,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/willjum-wolf-boonie-hat",
+    "workshopid": 3063238495,
+    "itemid": "hat.boonie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/team-rocket-hoodie",
+    "workshopid": 3068694763,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/disguised-toast-armored-double-door",
+    "workshopid": 3074139282,
+    "itemid": "door.double.hinged.toptier"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/dilanzito-&-alkapone-team-ar",
+    "workshopid": 3071600907,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/dhalucard-ar",
+    "workshopid": 3067780793,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/panpots-ar",
+    "workshopid": 3065911785,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/krolay-sar",
+    "workshopid": 3071292769,
+    "itemid": "rifle.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/blooprint’s-welcome-rock",
+    "workshopid": 3069492016,
+    "itemid": "rock"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/silverback-furnace",
+    "workshopid": 3068048275,
+    "itemid": "furnace"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/team-rocket-facemask",
+    "workshopid": 3068692726,
+    "itemid": "metal.facemask"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitch-rivals-iv-beenie",
+    "workshopid": 3068889137,
+    "itemid": "hat.beenie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitch-rivals-iv-fridge",
+    "workshopid": 3069569670,
+    "itemid": "fridge"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitch-rivals-iv-rocket-launcher",
+    "workshopid": 3066911102,
+    "itemid": "rocket.launcher"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitch-rivals-iv-boots",
+    "workshopid": 3079737991,
+    "itemid": "shoes.boots"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/panpots-team-hoodie",
+    "workshopid": 3065903935,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/blooprint-team-hoodie",
+    "workshopid": 3065877893,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/disguised-toast-team-hoodie",
+    "workshopid": 3067677165,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/krolay-&-nikof-team-hoodie",
+    "workshopid": 3072104878,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/latam-team-hoodie",
+    "workshopid": 3071365291,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/willjum-&-posty-team-hoodie",
+    "workshopid": 3074546886,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/dhalucard-&-captainmyko-team-hoodie",
+    "workshopid": 3072348100,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cocolemon-team-hoodie",
+    "workshopid": 3090952047,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/legacy-wood",
+    "workshopid": -1,
+    "itemid": "",
+    "ignore": true
+  },
+  {
+    "uri": "https://rustlabs.com/skin/legacy-bow",
+    "workshopid": -1,
+    "itemid": "",
+    "ignore": true
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitch-rivals-trophy-2023",
+    "workshopid": -1,
+    "itemid": "",
+    "ignore": true
+  },
+  {
+    "uri": "https://rustlabs.com/skin/legacy-furnace",
+    "workshopid": -1,
+    "itemid": "",
+    "ignore": true
+  },
+  {
+    "uri": "https://rustlabs.com/skin/twitch-rivals-desk",
+    "workshopid": -1,
+    "itemid": "",
+    "ignore": true
   }
 ]
