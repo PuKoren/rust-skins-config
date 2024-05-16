@@ -21832,5 +21832,607 @@
     "uri": "https://rustlabs.com/skin/copper-m249",
     "workshopid": 3098140081,
     "itemid": "lmg.m249"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/watcher-of-doom-metal-door",
+    "workshopid": 3235441223,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/mk-ultra",
+    "workshopid": 3235688950,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/rainbow-pony-jacket",
+    "workshopid": 2564304076,
+    "itemid": "jacket"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chameleon-roadsign-gloves",
+    "workshopid": 3235753614,
+    "itemid": "roadsign.gloves"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/redemption-helmet",
+    "workshopid": 3223770718,
+    "itemid": "coffeecan.helmet"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/redemption-vest",
+    "workshopid": 3223770353,
+    "itemid": "roadsign.jacket"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/redemption-kilt",
+    "workshopid": 3223769739,
+    "itemid": "roadsign.kilt"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/el-diablo-bow",
+    "workshopid": 2936516044,
+    "itemid": "bow.hunting"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/black-gold-pump-shotgun",
+    "workshopid": 3200657387,
+    "itemid": "shotgun.pump"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cardboard-hatchet",
+    "workshopid": 3235503036,
+    "itemid": "hatchet"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cardboard-pickaxe",
+    "workshopid": 3235506585,
+    "itemid": "pickaxe"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chainmail-headwrap",
+    "workshopid": 3235236300,
+    "itemid": "burlap.headwrap"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/lei",
+    "workshopid": 3235504696,
+    "itemid": "attire.hide.poncho"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/constructed-thompson",
+    "workshopid": 3235633329,
+    "itemid": "smg.thompson"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/moon-guard-door",
+    "workshopid": 3235552645,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/junkernaught-ar",
+    "workshopid": 3235814327,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/shadowborn-metal-double-door",
+    "workshopid": 3200405110,
+    "itemid": "door.double.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/bullseye-lr300",
+    "workshopid": 3229979619,
+    "itemid": "rifle.lr300"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/black-diamond-smg",
+    "workshopid": 3229741962,
+    "itemid": "smg.2"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/sheet-metal-base-box",
+    "workshopid": 3235609440,
+    "itemid": "box.wooden"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chameleon-pants",
+    "workshopid": 3229975901,
+    "itemid": "pants"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chameleon-hoodie",
+    "workshopid": 3229977044,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/junkernaught-mp5",
+    "workshopid": 3229578196,
+    "itemid": "smg.mp5"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/blackout-sap",
+    "workshopid": 3229459193,
+    "itemid": "pistol.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/shadowborn-armored-door",
+    "workshopid": 3229463371,
+    "itemid": "door.hinged.toptier"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cel-kilt",
+    "workshopid": 3218384871,
+    "itemid": "roadsign.kilt"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cel-vest",
+    "workshopid": 3218388824,
+    "itemid": "roadsign.jacket"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cel-helmet",
+    "workshopid": 3218381359,
+    "itemid": "coffeecan.helmet"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/bombshell-thompson",
+    "workshopid": 3231399331,
+    "itemid": "smg.thompson"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/tomb-of-the-octopus-metal-door",
+    "workshopid": 3223688035,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/mr.craboo-bandana",
+    "workshopid": 3221113238,
+    "itemid": "mask.bandana"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/mr.craboo-poncho",
+    "workshopid": 3221144798,
+    "itemid": "attire.hide.poncho"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/hqm-base-box",
+    "workshopid": 3215453447,
+    "itemid": "box.wooden"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/hazzy-sheet-metal-door",
+    "workshopid": 3216933839,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/gold-chains",
+    "workshopid": 3223522966,
+    "itemid": "attire.hide.poncho"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/black-diamond-lr300",
+    "workshopid": 3223433328,
+    "itemid": "rifle.lr300"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/norseman-chestplate",
+    "workshopid": 3209141984,
+    "itemid": "metal.plate.torso"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/norseman-facemask",
+    "workshopid": 3209137575,
+    "itemid": "metal.facemask"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/thundergold-smg",
+    "workshopid": 3216376905,
+    "itemid": "smg.2"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/apocalypse-nomad-m39",
+    "workshopid": 3216854775,
+    "itemid": "rifle.m39"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/khinkali-furnace",
+    "workshopid": 3216563713,
+    "itemid": "furnace"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/imperial-pump-shotgun",
+    "workshopid": 3209537840,
+    "itemid": "shotgun.pump"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/snakebite-hunting-bow",
+    "workshopid": 3209380610,
+    "itemid": "bow.hunting"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/tomb-of-the-octopus",
+    "workshopid": 3206684343,
+    "itemid": "wall.frame.garagedoor"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/shadowborn-large-box",
+    "workshopid": 3216451596,
+    "itemid": "box.wooden.large"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cyberboots",
+    "workshopid": 3209369486,
+    "itemid": "shoes.boots"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cybergloves",
+    "workshopid": 3209374372,
+    "itemid": "roadsign.gloves"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/blocky-lighthouse-door",
+    "workshopid": 3216724471,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chameleon-facemask",
+    "workshopid": 3200912680,
+    "itemid": "metal.facemask"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chameleon-chestplate",
+    "workshopid": 3200906328,
+    "itemid": "metal.plate.torso"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/thundergold-dbs",
+    "workshopid": 3200484489,
+    "itemid": "shotgun.double"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/prototype-7164-sar",
+    "workshopid": 3198691566,
+    "itemid": "rifle.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/apocalypse-nomad-ar",
+    "workshopid": 3200837826,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/shadowborn-sheet-metal-door",
+    "workshopid": 3208884292,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/mr.craboo-boonie",
+    "workshopid": 3199390278,
+    "itemid": "hat.boonie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/snakebite-sleeping-bag",
+    "workshopid": 3197692694,
+    "itemid": "sleepingbag"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/blocky-cargo-box",
+    "workshopid": 3200732130,
+    "itemid": "box.wooden.large"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/jungle-sar",
+    "workshopid": 3190503279,
+    "itemid": "rifle.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/soullight-armored-door",
+    "workshopid": 3188707122,
+    "itemid": "door.hinged.toptier"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/black-diamond-ak47",
+    "workshopid": 3190379864,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cyberhoodie",
+    "workshopid": 3190750860,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cyberpants",
+    "workshopid": 3190742846,
+    "itemid": "pants"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/stone-base-box",
+    "workshopid": 3189116172,
+    "itemid": "box.wooden"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/shadowborn-garage-door",
+    "workshopid": 3190691566,
+    "itemid": "wall.frame.garagedoor"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/blackberry-rock",
+    "workshopid": 3189755310,
+    "itemid": "rock"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/hatched-chick-furnace",
+    "workshopid": 3179952301,
+    "itemid": "furnace"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/easter-farm-door",
+    "workshopid": 3178930696,
+    "itemid": "door.hinged.wood"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/retro-tool-cupboard",
+    "workshopid": -1,
+    "itemid": "",
+    "ignore": true
+  },
+  {
+    "uri": "https://rustlabs.com/skin/happy-easter-ar",
+    "workshopid": 3179282276,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/sweet-treat-burlap-shirt",
+    "workshopid": 3178734013,
+    "itemid": "burlap.shirt"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/sweet-treat-burlap-pants",
+    "workshopid": 3178734798,
+    "itemid": "burlap.trousers"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/easter-hoodie",
+    "workshopid": 3177697184,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/easter-pants",
+    "workshopid": 3177684426,
+    "itemid": "pants"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/carrot-blaster-sar",
+    "workshopid": 3178719696,
+    "itemid": "rifle.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chocolate-hunter-mp5",
+    "workshopid": 3179170545,
+    "itemid": "smg.mp5"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/easter-chick-hammer",
+    "workshopid": 3179681052,
+    "itemid": "hammer"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/hatched-door",
+    "workshopid": 3179697421,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/easter-neon-large-box",
+    "workshopid": 3178917098,
+    "itemid": "box.wooden.large"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/inflatable-stone-hatchet",
+    "workshopid": 3169045366,
+    "itemid": "stonehatchet"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/inflatable-stone-pickaxe",
+    "workshopid": 3169051239,
+    "itemid": "stone.pickaxe"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/oil-spill-mp5",
+    "workshopid": 3169115247,
+    "itemid": "smg.mp5"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/blackberry-furnace",
+    "workshopid": 3173341860,
+    "itemid": "furnace"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chameleon-python",
+    "workshopid": 3173154656,
+    "itemid": "pistol.python"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/clan-base-garage-door",
+    "workshopid": 3173439965,
+    "itemid": "wall.frame.garagedoor"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/facet-sheet-metal-door",
+    "workshopid": 3173120319,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/skullforce-ar",
+    "workshopid": 3122392362,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/blocky-rig-garage-door",
+    "workshopid": 3168988482,
+    "itemid": "wall.frame.garagedoor"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/skullforce-bandana",
+    "workshopid": 3168215420,
+    "itemid": "mask.bandana"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/skullforce-hide-poncho",
+    "workshopid": 3168216536,
+    "itemid": "attire.hide.poncho"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/prototype-7164-ar",
+    "workshopid": 3167912018,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/legacy-kevlar-roadsign-gloves",
+    "workshopid": 3169001811,
+    "itemid": "roadsign.gloves"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/legacy-kevlar-boots",
+    "workshopid": 3168999824,
+    "itemid": "shoes.boots"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/imperial-thompson",
+    "workshopid": 3169119287,
+    "itemid": "smg.thompson"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/khokhloma-small-box",
+    "workshopid": 3167853739,
+    "itemid": "box.wooden"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chicken-costume",
+    "workshopid": -1,
+    "itemid": "",
+    "ignore": true
+  },
+  {
+    "uri": "https://rustlabs.com/skin/serpent-ar",
+    "workshopid": 3164599190,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/thundergold-sar",
+    "workshopid": 3163671576,
+    "itemid": "rifle.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/apocalypse-nomad-mp5",
+    "workshopid": 3164352697,
+    "itemid": "smg.mp5"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/damascus-boots",
+    "workshopid": 3164459704,
+    "itemid": "shoes.boots"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/damascus-roadsign-gloves",
+    "workshopid": 3164458419,
+    "itemid": "roadsign.gloves"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cyberkilt",
+    "workshopid": 3164366216,
+    "itemid": "roadsign.kilt"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cyberarmor",
+    "workshopid": 3164368683,
+    "itemid": "roadsign.jacket"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/cyberhelmet",
+    "workshopid": 3164371845,
+    "itemid": "coffeecan.helmet"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/damascus-helmet",
+    "workshopid": 3159713751,
+    "itemid": "coffeecan.helmet"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/damascus-vest",
+    "workshopid": 3159714670,
+    "itemid": "roadsign.jacket"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/damascus-kilt",
+    "workshopid": 3159715316,
+    "itemid": "roadsign.kilt"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/hypnogena-box",
+    "workshopid": 3159432079,
+    "itemid": "box.wooden"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/khokhloma-box",
+    "workshopid": 3115118779,
+    "itemid": "box.wooden.large"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/respawn-allegory-fresco",
+    "workshopid": 3160834562,
+    "itemid": "rug"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/flashbacks-pants",
+    "workshopid": 3159286857,
+    "itemid": "pants"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/flashbacks-hoodie",
+    "workshopid": 3159848185,
+    "itemid": "hoodie"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/low-poly-sar",
+    "workshopid": 3159596182,
+    "itemid": "rifle.semiauto"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/inflatable-ar",
+    "workshopid": 3159704631,
+    "itemid": "rifle.ak"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/evil-lair-metal-door",
+    "workshopid": 3159771215,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/happy-corn-door",
+    "workshopid": 3159004978,
+    "itemid": "door.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/graffiti-love-double-door",
+    "workshopid": 3147455713,
+    "itemid": "door.double.hinged.metal"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/black-gold-jacket",
+    "workshopid": 3149924908,
+    "itemid": "jacket"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/polished-obsidian-furnace",
+    "workshopid": 3149292315,
+    "itemid": "furnace"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/chameleon-revolver",
+    "workshopid": 3150176120,
+    "itemid": "pistol.revolver"
+  },
+  {
+    "uri": "https://rustlabs.com/skin/thundergold-ar",
+    "workshopid": 3153949937,
+    "itemid": "rifle.ak"
   }
 ]
